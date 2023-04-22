@@ -1,4 +1,3 @@
 # AI
 
-
-## Mnist 
+* Mnist 
